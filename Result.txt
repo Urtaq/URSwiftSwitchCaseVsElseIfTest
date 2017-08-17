@@ -1,0 +1,14 @@
+0.0006041259765625
+Program ended with exit code: 0
+
+0.0005363037109375
+Program ended with exit code: 0
+
+0.0005470703125
+Program ended with exit code: 0
+
+0.000560546875
+Program ended with exit code: 0
+
+0.0005936279296875
+Program ended with exit code: 0
